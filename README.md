@@ -345,9 +345,6 @@ Yuklenmeye hazir yeni firmware alimi tamamlandi.
 
 # Video Sunumu
 
-YouTube video linki:
-
-YOUTUBE_VIDEO_LINKI_BURAYA_EKLENECEK
-
+YouTube video linki: https://youtu.be/cbHrY9CZxcA
 
 
